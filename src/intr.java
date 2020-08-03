@@ -4,6 +4,9 @@ public class intr {
         System.out.println("iiiiiii");
         System.out.println("to git");
         System.out.println();
+         System.out.println("iiiiiii");
+        System.out.println("to git");
+        System.out.println();
         
     }
 }
